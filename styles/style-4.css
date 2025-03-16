@@ -1,0 +1,37 @@
+body{ 
+    background-color: rgb(211, 218, 222);
+    font-family: sans-serif;
+    text-align: justify;  
+}
+
+h1{
+    font-size:200%;
+    text-align:center; /* Justificado al centro */
+    text-transform: uppercase;
+}
+
+h2{
+    background-color:rgb(123, 145, 157);
+    font-size: 140%;
+    text-decoration: underline;
+    color: rgb(64, 80, 87);
+}
+h3{
+    background-color:rgb(152, 170, 179);
+    font-size: 100%;
+    font-style:italic;
+    color: rgb(86, 107, 117);
+  }
+  
+p{ 
+    background-color:rgb(181, 194, 200);
+    font-style:normal;
+  }
+  
+  .address {
+    text-align: right; /* Justificado a la derecha */
+    font-style: italic; 
+    font-weight: bold; 
+    background-color:white; 
+  }
+   

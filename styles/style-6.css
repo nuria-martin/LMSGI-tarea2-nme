@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(197, 224, 235);
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  h1{
+    font-size:300%;
+    text-align:center;
+    text-transform:uppercase;
+    text-decoration:underline;
+  }
+  h2{
+    background-color:rgb(63, 153, 191);
+    font-size:180%;
+    padding:1px;
+  }
+  p{ 
+    font-style:normal;
+  }
+  .p1{
+    font-style:italic;
+    line-height:35px;
+    margin-left: 50px;  /* Mueve el párrafo hacia la derecha */
+  }
+  

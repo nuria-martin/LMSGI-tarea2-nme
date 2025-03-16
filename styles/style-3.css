@@ -1,0 +1,42 @@
+*{
+    font-family:calibri;
+}
+.azul {
+    color: blue;
+    font-size: 450%;
+    text-decoration:line-through;
+    position: relative;
+    top:50px;
+  }
+  .verde1 {
+    color: green;
+    font-size: 30px;;
+    text-decoration: underline;
+    position: relative;
+    top: -10px;
+  }
+  .verde2 {
+    color: green;
+    font-size: relative;
+    text-decoration: underline;
+    position: relative;
+    top: -5px;
+  }
+  .pequeno {
+    font-size: 12px;
+  }
+  .arriba {
+    position: relative;
+    top: -10px;
+  }
+  .abajo {
+    position: relative;
+    top: 20px;
+  }
+  .abajo1 {
+    position: relative;
+    top: 30px;
+  }
+  .grande {
+    font-size: 45px;
+  }

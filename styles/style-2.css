@@ -1,0 +1,27 @@
+.subrayado {
+    position: relative;
+    display: inline-block;
+  }
+.subrayado::before {
+    content: '';
+    position: absolute;
+    top: 40%; /* Ajusta posición de la línea sobre texto */
+    width: 100%; /* longuitud de linea */
+    height: 1px; /* Grosor de línea */
+    background-color: black; /* Color de línea */
+  }
+.pre {
+    font-weight: bold;
+    font-size: 1.5em;/* Aumenta tamaño de palabra "pre" */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:blueviolet;
+    
+  }
+.pre1 {
+    font-weight: bold;
+    font-size: 1.5em;/* Aumenta tamaño de palabra "pre" */
+    font-family:'Courier New', Courier, monospace;
+    color:blueviolet;
+    
+  }
+  

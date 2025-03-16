@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(211, 211, 211);
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  h1{
+    font-size:300%;
+    text-align:center;
+    letter-spacing:10px;
+    text-transform:uppercase;
+  }
+  h2{
+    background-color:rgb(128, 128, 128);
+    color: white;
+    font-size:189%;
+    padding:5px;
+    margin:20px;
+  }
+  p{ 
+    font-style:normal;
+    padding:10px 100px;
+    text-indent: 10px; /* Indenta el primer renglón del párrafo */
+  }
+  .rojo{
+    color:red;
+    font-style:italic;
+  }
+  .negrita{ 
+    font-weight:bold;
+  }
+  .imagen-integrada{
+    float:left;
+    margin: 0 15px 10px 0;
+  }
+  .amarillo{
+    color:rgb(219, 198, 95);
+  }
+  .subrayado{
+    text-decoration: underline dotted;
+  }
